@@ -16,6 +16,6 @@
 @property (nonatomic, strong) UITextField *fieldTextField;
 @property (nonatomic, strong) UILabel * titelLabel;
 
--(instancetype) initWithNativeLang:(NSString *) lang;
+-(instancetype) initWithNativeLang:(NSString *)lang;
 
 @end
